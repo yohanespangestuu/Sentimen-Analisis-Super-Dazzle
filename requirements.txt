@@ -5,3 +5,6 @@ selenium
 plotly
 wordcloud
 matplotlib
+pillow 
+sastrawi 
+numpy
