@@ -25,12 +25,12 @@ def load_image(image_path):
         st.error(f"Gagal memuat gambar: {str(e)}")
         return None
 
-logo = load_image('super-banner.jpg')
+logo = load_image('super-banner.png')
 
 if logo:
     st.image(
         logo, 
-        use_container_width=True  # Parameter yang diperbarui
+        use_container_width=True# Parameter yang diperbarui
     )
     
 else:
