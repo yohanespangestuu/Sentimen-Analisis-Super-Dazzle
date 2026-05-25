@@ -68,8 +68,8 @@ with st.sidebar:
         [
             "Pilih...",
             "Pelayanan sangat memuaskan dan cepat!",
-            "Produk datang terlambat dan dalam kondisi rusak.",
-            "Cukup standar, tidak ada yang istimewa."
+            "antrian mengular, kasir lambat",
+            "barang-barangnya lumayan lengkap "
         ]
     )
     
